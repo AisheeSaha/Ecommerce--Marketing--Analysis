@@ -6,7 +6,7 @@ This project analyzes e-commerce sales and digital marketing data to uncover rev
 
 ## 📊 Dashboard Preview
 
-![image Alt]()
+![image Alt](https://github.com/AisheeSaha/Ecommerce--Marketing--Analysis/blob/main/Dashboard%20Screenshot.png?raw=true)
 
 ## 🎯 Business Objectives
 
